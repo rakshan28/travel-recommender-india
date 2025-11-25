@@ -1,1 +1,2 @@
-# travel-recommender-india
+# Travel Recommender
+Deploy-ready package.
